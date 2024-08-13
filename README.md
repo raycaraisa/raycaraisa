@@ -1,9 +1,11 @@
-## Hi there 👋
-Meu nome é Rayca Raisa
+## Hi there, welcome to my profile 💙💙
+Meu nome é Rayca Raisa✨
 
-Estou estudando na Alura,me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Estou estudando na Alura, me desenvolvendo na linguagem JavaScript.
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
+Você pode entrar em contato comigo 📫
+s.rayca@escola.pr.gov.br
 <!--
 **raycaraisa/raycaraisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
